@@ -1,0 +1,13 @@
+item {
+   id: 1
+   name: 'Abyssinian'
+}
+item {
+   id: 2
+   name: 'american_bulldog'
+}
+item {
+   id: 3
+   name: 'Bengal'
+}
+
